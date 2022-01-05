@@ -31,3 +31,4 @@ const book2 = {
 // console.log(book1.getSummary());
 // console.log(Object.values(book2));
 // console.log(Object.keys(book2));
+
